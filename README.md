@@ -1,8 +1,4 @@
 # Enigma-Machine
----
-title: 'Project documentation template'
-disqus: hackmd
----
 
 Enigma Machine
 ===
