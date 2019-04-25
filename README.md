@@ -1,8 +1,5 @@
 # Enigma-Machine
 
-Enigma Machine
-===
-
 ## Table of Contents
 
 * User Story
