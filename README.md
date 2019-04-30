@@ -3,8 +3,6 @@
 ## Table of Contents
 
 * User Story
-* Project Timeline
-* Appendix and FAQ
 
 User story
 ---
@@ -57,24 +55,11 @@ def EnigmaDecripter(string, key):   #Func for decripting
 #    print("After: ",q)      #For Debuging
     return q
 ```
-Project Timeline
----
-```mermaid
-gantt
-    title Enigma Machine Timeline 
 
-    section Backend Funcs
-     Building the Backend Funcs        :a1, 2019-10-03, 10d
-    
-    section the Gui
-    Task in sec      :al, 2019-20-03 , 12d
-    Building the Gui   : 2d
-```
+## Issues to resolve for the Future 
+ 
+* Implement mutatabkle keys into the GUI window 
 
-## Appendix and FAQ
-
-:::info
-**Find this document incomplete?** Leave a comment!
-:::
+* Improve Encrypting/Decrypting functions
 
 
