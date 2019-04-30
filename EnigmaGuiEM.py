@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Apr 16 12:55:08 2019
+Spyder Editor
+@author: Philip Irving
 
-@author: Owner
+This is the Gui build for the Enigma Machine. This sets up the window fo it.
 """
+
 from tkinter import *
 from BackendFunctionsEM import *
+
+#TODO must make it so that the gui can edit the keys when user wants to. 
 
 master = Tk()
 
