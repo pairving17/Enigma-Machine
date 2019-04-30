@@ -1,9 +1,5 @@
 # Enigma-Machine
 
-## Table of Contents
-
-* User Story
-
 User story
 ---
 
