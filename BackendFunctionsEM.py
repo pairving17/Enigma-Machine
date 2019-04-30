@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
 Spyder Editor
+@author: Philip Irving
 
-This is a temporary script file.
+This is file works with the front end Gui build for the enigma machine.
+Each key is set before the gui runs, to make any changes to the key must be done inside of this file 
 """
 from EnigmaGuiEM import *
 
-print("Inputs:\n")
-#theString = ""
 #Change the Keys t different integers
 key1 = 11
 key2 = 12
@@ -92,6 +92,3 @@ def convertStr(vari):
     intlist = []
     splitstr += vari
     
-#Test Cases
-
-#EngimaMachine(theString)
